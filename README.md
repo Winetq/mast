@@ -1,5 +1,5 @@
 # mast  
-The program reads a set of n rooted trees in the NEWICK format, and then for each of n(n-1)/2 pairs of trees will calculate the minimum number of leaves whose removal from both  
+The program reads a set of n rooted trees in the NEWICK format, and then for each of n(n-1)/2 pairs of trees will calculate the minimum number of leaves whose removal from both
 trees will make them isomorphic. The problem is known in IT as maximum agreement subtree problem. Considered trees have 10 leaves labeled from 1 to 10. Example input and output:  
 
 4  
